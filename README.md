@@ -1,5 +1,5 @@
 <p align="center">
-<img src="LucasRamonProfile.png">
+<img src="LucasRamonSoftwareEngineerBanner.png">
 </p>
 
 ![](https://komarev.com/ghpvc/?username=lramon2001&color=blue&style=flat-square)
