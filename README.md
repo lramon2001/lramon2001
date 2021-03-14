@@ -2,7 +2,7 @@
 <img src="LucasRamonProfile.png">
 </p>
 
-![](https://komarev.com/ghpvc/?username=Maiconrq&color=orange&style=flat-square)
+![](https://komarev.com/ghpvc/?username=lramon2001&color=blue&style=flat-square)
 [![Linkedin: lucas-ramon-alves-de-oliveira](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-ramon-alves-de-oliveira)
 [![GitHub lramon2001](https://img.shields.io/github/followers/lramon2001?label=follow&style=social)](https://github.com/lramon2001)
 [![Gmail Badge](https://img.shields.io/badge/-lucasoliveirainor3105@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasoliveirainor3105@gmail.com)](mailto:nociamrq27@gmail.com)
