@@ -5,9 +5,19 @@
 </p>
 </div>
 
-##
+## GitHub Status
 
-
+<center>
+    <table align="center">
+      <tr>
+          <td>
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=lramon2001&count_private=true&hide_border=true" />
+          </td>
+          <td>
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lramon2001&hide=html&layout=compact&count_private=true&hide_border=true" />               </td>
+      </tr>  
+    </table>
+</center>
 
 ## Contact and Social
 
