@@ -2,10 +2,11 @@
 <img src="LucasRamonSoftwareEngineerProfile.png">
 </p>
 
-![](https://komarev.com/ghpvc/?username=lramon2001&color=blue&style=flat-square)
-[![Linkedin: lucas-ramon-alves-de-oliveira](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ramon-alves-de-oliveira/)
-[![GitHub lramon2001](https://img.shields.io/github/followers/lramon2001?label=follow&style=social)](https://github.com/lramon2001)
-[![Gmail Badge](https://img.shields.io/badge/-lucasoliveirainor3105@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasoliveirainor3105@gmail.com)](mailto:nociamrq27@gmail.com)
+ <a href="https://www.youtube.com/channel/UCg97XrhNMzxuEYHyjBg0OHQ" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="hhttps://www.instagram.com/lramon2001/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: lucasoliveirainor3105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-ramon-alves-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 
 
 ## I'm currently studying:
