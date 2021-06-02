@@ -20,18 +20,14 @@
 </div>
 
 ## GitHub Stats
-<p align="left">
-  <div style="display: inline_block" align="left"><br>
+<div>
  <a href="https://github.com/lramon2001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lramon2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lramon2001&layout=compact&langs_count=16&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lramon2001&layout=compact&langs_count=16&theme=algolia"/>
    </div>
   <div>
   
-  </p>
-
- 
-
+  
  
  ## Most Used Languages and Soft Skills
  
@@ -81,6 +77,6 @@
  
 ![Snake animation](https://github.com/lramon2001/lramon2001/blob/output/github-contribution-grid-snake.svg)
  
-</details>
+    </div>
 
  
