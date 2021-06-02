@@ -16,12 +16,24 @@
  <a href="https://www.twitch.tv/lramon2001" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
 </a>
 </div>
-<div>
+
+## GitHub Stats 
+
+
+<div align="center">
   <a href="https://github.com/lramon2001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lramon2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</div>
+  
+  ## Most Used Languages and Soft Skills
+  
+  
+  
+  <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lramon2001&layout=compact&langs_count=16&theme=algolia"/>
+  </div>
 <div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -37,7 +49,7 @@
 
   
  
- ## Most Used Languages and Soft Skills
+
  
  <p align="center">
  
@@ -77,6 +89,6 @@
  
 ![Snake animation](https://github.com/lramon2001/lramon2001/blob/output/github-contribution-grid-snake.svg)
  
-    </div>
+  
 
  
