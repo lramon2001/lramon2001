@@ -1,8 +1,14 @@
+##
 <div>
 <p align="center">
 <img src="LucasRamonSoftwareEngineerProfile.png">
 </p>
 </div>
+
+## Contact and Social:
+
+
+
 <div>
 <p align="center">
 <a href="https://wa.me/5561995192828" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
@@ -32,10 +38,13 @@
 <a href="https://www.kaggle.com/lramon2001" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank">
 </a>
  </p>
- </div>
+ 
+ ##
 
-
+ 
+ 
 ![Snake animation](https://github.com/lramon2001/lramon2001/blob/output/github-contribution-grid-snake.svg)
+ 
 </details>
 
  
