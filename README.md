@@ -22,4 +22,8 @@
 ![C](https://img.shields.io/badge/-C_Language-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=blue)
 ![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=blue)
 
+
+![Snake animation](https://github.com/lramon2001/lramon2001/blob/output/github-contribution-grid-snake.svg)
 </details>
+
+ 
