@@ -25,7 +25,7 @@
 </a>
 <a href="https://bitbucket.org/lramon2001/" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank">
 </a>
-<a href="https://teams.microsoft.com/l/team/19%3aMJPcjX8ApH5VVzcmv3fJi4CWjgptVva1RIrA55hvGOw1%40thread.tacv2/conversations?groupId=df7fe981-5d0b-4858-a359-fc01b2339d87&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=red" target="_blank">
+<a href="https://www.kaggle.com/lramon2001" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank">
 </a>
 
 
