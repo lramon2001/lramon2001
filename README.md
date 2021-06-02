@@ -1,11 +1,11 @@
-##
+## Olá! Eu sou o Lucas Ramon 
 <div>
 <p align="center">
 <img src="LucasRamonSoftwareEngineerProfile.png">
 </p>
 </div>
 
-## Contact and Social:
+## Contact and Social
 
 
 
