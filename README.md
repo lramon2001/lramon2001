@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Lucas Ramon 
-<div>
+<div align ="center">
 <img src="LucasRamonSoftwareEngineerProfile.png">
+  <div>
   <a href="https://www.linkedin.com/in/lucas-ramon-alves-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
  <a href = "mailto: lucasoliveirainor3105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -15,6 +16,7 @@
 </a>
  <a href="https://www.twitch.tv/lramon2001" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
 </a>
+  </div>
 </div>
 
 ## GitHub Stats 
