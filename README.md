@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá.Sou+Lucas+Ramon;Desenvolvedor+de+Software;Estudante+de+Engenharia+de+Software+da+UnB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá.Sou+Lucas+Ramon;)](https://git.io/typing-svg)
 <div align ="center">
 <div align ="center">
 <img src="https://github.com/lramon2001/lramon2001/blob/main/Black%20and%20White%20Minimalist%20LinkedIn%20Profile%20Picture%20(3).png" height="300" width="300">
@@ -20,6 +20,8 @@
 </a>
   </div>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Um+desenvolvedor+java;Em+desenvolvimeto)](https://git.io/typing-svg)
 
 ## GitHub Stats 
 
