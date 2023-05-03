@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá.Sou+Lucas+Ramon;)](https://git.io/typing-svg)
+<div style="background-color: #242424;>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá.Sou+Lucas+Ramon;)](https://git.io/typing-svg)
 <div align ="center">
 <div align ="center">
 <img src="https://github.com/lramon2001/lramon2001/blob/main/Black%20and%20White%20Minimalist%20LinkedIn%20Profile%20Picture%20(3).png" height="300" width="300">
@@ -94,7 +95,7 @@
  <a href="https://twitter.com/lramon2001" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 <a href="https://discord.com/channels/@me/827220542175445003" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </a>
-
+  </div>
 
 
   
