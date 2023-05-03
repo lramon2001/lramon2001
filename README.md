@@ -1,4 +1,5 @@
-<div style="background-color: #242424;>
+<div style="background-color: #242424;">
+            
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá.Sou+Lucas+Ramon;)](https://git.io/typing-svg)
 <div align ="center">
 <div align ="center">
