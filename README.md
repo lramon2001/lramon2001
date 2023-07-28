@@ -1,6 +1,6 @@
 <div style="background-color: #242424;">
             
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá.Sou+Lucas+Ramon;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá.Sou+Lucas+Ramon;Um+desenvolvedor+em+desenvolvimento;)](https://git.io/typing-svg)
 <div align ="center">
 
   <div>
@@ -21,7 +21,6 @@
   </div>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Um+desenvolvedor+java;Em+desenvolvimento)](https://git.io/typing-svg)
 
 ## GitHub Stats 
 
