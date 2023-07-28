@@ -26,18 +26,19 @@
 ## GitHub Stats 
 
 
+
+
+  <div align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=lramon2001&theme=algolia&include_all_commits=true"/>
+</div>
+
 <div align="center">
   <a href="https://github.com/lramon2001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lramon2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=lramon2001&show_icons=true&theme=algolia&include_all_commits=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lramon2001&show_icons=true&theme=algolia&include_all_commits=true&layout=compact&langs_count=16"/>
+  </a>
 </div>
-  
-  ## Most Used Languages and Soft Skills
-  
-  
-  
-  <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lramon2001&layout=compact&langs_count=16&theme=algolia"/>
-  </div>
+ 
 <div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Judeu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
