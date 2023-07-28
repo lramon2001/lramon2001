@@ -1,25 +1,6 @@
 <div style="background-color: #242424;">
             
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá.Sou+Lucas+Ramon;Um+desenvolvedor+em+desenvolvimento;)](https://git.io/typing-svg)
-<div align ="center">
-
-  <div>
-  <a href="https://www.linkedin.com/in/lucas-ramon-alves-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
- <a href = "mailto: lucasoliveirainor3105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
- <a href="https://www.kaggle.com/lramon2001" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank">
-</a>
-  <a href="https://gitlab.com/lucasoliveirainor3105" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
-</a>
-<a href="https://bitbucket.org/lramon2001/" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank">
-</a>
- <a href="https://www.youtube.com/channel/UCg97XrhNMzxuEYHyjBg0OHQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-</a>
- <a href="https://www.twitch.tv/lramon2001" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-</a>
-  </div>
-</div>
 
 
 ## GitHub Stats 
@@ -95,6 +76,26 @@
 <a href="https://discord.com/channels/@me/827220542175445003" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </a>
   </div>
+  <div align ="center">
+
+  <div>
+  <a href="https://www.linkedin.com/in/lucas-ramon-alves-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+ <a href = "mailto: lucasoliveirainor3105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+ <a href="https://www.kaggle.com/lramon2001" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank">
+</a>
+  <a href="https://gitlab.com/lucasoliveirainor3105" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
+</a>
+<a href="https://bitbucket.org/lramon2001/" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank">
+</a>
+ <a href="https://www.youtube.com/channel/UCg97XrhNMzxuEYHyjBg0OHQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+</a>
+ <a href="https://www.twitch.tv/lramon2001" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+</a>
+  </div>
+</div>
+
 
 
   
